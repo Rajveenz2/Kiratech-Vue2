@@ -1,0 +1,133 @@
+//custom css
+
+.v-toolbar__content,
+.v-toolbar__extension {
+  height: auto !important;
+}
+
+.bar1 {
+  height: 90px !important;
+}
+
+.bar2 {
+  height: 180px !important;
+}
+
+.logo {
+  height: 56px !important;
+  width: 170px !important;
+  // margin-top: 17px !important;
+}
+
+.avatar {
+  height: 148px !important;
+  width: 148px !important;
+  left: 0 !important;
+  border-radius: 5px;
+}
+
+.name {
+  width: 100% !important;
+  // margin-left: 10% !important;
+  // margin-top: 50px !important;
+  font-weight: 700;
+  font-size: 40px;
+  color: #ffffff !important;
+}
+
+.status {
+  width: 100% !important;
+  // margin-left: 10% !important;
+  font-weight: 400;
+  font-size: 14px;
+  color: #ffffff !important;
+}
+
+.v-btn--is-elevated {
+  box-shadow: 0px 3px 1px -2px rgb(255, 255, 255),
+    0px 2px 2px 0px rgb(255, 255, 255), 0px 1px 5px 0px rgb(255, 255, 255) !important;
+}
+
+.btn1 {
+  width: 169px;
+  height: 50px;
+  margin-right: 1% !important;
+  border-color: 1px solid #ffffff !important;
+  border-radius: 5px !important;
+  color: #35bad8 !important;
+}
+
+.btn2 {
+  width: 169px;
+  height: 50px;
+  margin-left: 1% !important;
+  background-color: transparent !important;
+  color: #ffffff !important;
+}
+
+.btn3 {
+  width: 169px;
+  height: 50px;
+  background-color: #35bad8 !important;
+  color: #ffffff !important;
+}
+
+.container {
+  max-width: none !important;
+}
+
+.centerpage {
+  margin-top: 2% !important;
+  padding-bottom: 30px !important;
+}
+
+.grid {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  margin-top: 3% !important;
+  margin-bottom: 3% !important;
+  place-items: center !important;
+  display: grid !important;
+}
+
+.grid2 {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  place-items: center !important;
+  display: grid !important;
+}
+
+.headline {
+  font-size: 24px;
+}
+
+.user {
+  margin-top: 60px !important;
+  border-radius: 5px;
+}
+
+.textCapital {
+  text-transform: capitalize !important;
+}
+
+.loader-logo {
+  height: 50% !important;
+  width: 50% !important;
+}
+
+.loaderBackground {
+  position: absolute !important;
+  height: 100% !important;
+  width: 100% !important;
+  background-color: #fff !important;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 100;
+  opacity: 0.4;
+}
+
+.v-dialog {
+  border-radius: 24px 4px !important;
+}
