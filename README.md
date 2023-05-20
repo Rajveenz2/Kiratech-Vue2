@@ -1,4 +1,8 @@
-# kiratech-assignment
+# kiratech-assignment 
+
+This assigment is completed using Vue 2 , Axios and Vuetify.
+
+The site is hosted at : 
 
 ## Project setup
 ```
@@ -20,5 +24,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
