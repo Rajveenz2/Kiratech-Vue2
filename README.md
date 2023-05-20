@@ -2,7 +2,7 @@
 
 This assigment is completed using Vue 2 , Axios and Vuetify.
 
-The site is hosted at : 
+The site is hosted on : https://kiratech-user.netlify.app/
 
 ## Project setup
 ```
